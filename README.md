@@ -8,6 +8,6 @@
 
 ## **Directory Path**
 
-<img src="screenshot/direct.png">
+<img src="Lab6Web/screenshot/direct.png">
 
 <br/><br/>
